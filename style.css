@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+  background-color: lightblue;
+}
+
+header {
+  color: #493267;
+}
+
+ul {
+  font-weight: bolder;
+}
+
+h1 {
+  color: grey;
+}
+
+p {
+  color: blue;
+}
+
+footer {
+  font-size: 10px;
+}
